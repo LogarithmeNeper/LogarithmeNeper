@@ -1,9 +1,7 @@
+## Hi there 👋
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=LogarithmeNeper&style=plastic&color=red" alt=""/>
 </div>
-
-## Hi there 👋
-
 Welcome to my GitHub profile, mainly for personal projects and things I like to do in my spare time. 
 <details>
   <summary>More</summary>
