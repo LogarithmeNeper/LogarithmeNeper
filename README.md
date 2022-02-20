@@ -15,7 +15,7 @@ Welcome to my GitHub profile, mainly for personal projects and things I like to 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LogarithmeNeper)](https://git.io/streak-stats)
 
-[![LogarithmeNeper's GitHub stats](https://github-readme-stats.vercel.app/api?username=LogarithmeNeper)](https://github.com/anuraghazra/github-readme-stats)
+[![LogarithmeNeper's GitHub stats](https://github-readme-stats.vercel.app/api?username=LogarithmeNeper&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Coderanks 🚦
 <!-- Maybe not useful
