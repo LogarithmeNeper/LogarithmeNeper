@@ -9,7 +9,7 @@ Welcome to my GitHub profile, mainly for personal projects and things I like to 
   <summary>More</summary>
    <ul>
     <li> My username was chosen when I heard about logarithms for the first time, which was a convenient way (for me) to get rid of useless powers in functions. I am not really sure why that trick had such an effect on me, yet it was great so I decided to name me like that. Apart from that, my real name is Pierre, I am currently in my last year of studies for the Computer Science department in INSA Lyon (namely IF for InFormatique), and hopefully I will soon work for my end-of-studies internship.</li>
-    <li>I also work in Philosophy in Université Jean Moulin Lyon 3, with a dissertation revolving around abstraction principles (in the way Peano's school and Frege both defined it) and creative definitions _à la_ Weyl. This work revolves around the very concept of defining new objects upon an equivalence relation, and some philosophical and technical problems that may be hidden there.</li>
+    <li>I also work in Philosophy in Université Jean Moulin Lyon 3, with a dissertation revolving around abstraction principles (in the way Peano's school and Frege both defined it) and creative definitions <em>à la</em> Weyl. This work revolves around the very concept of defining new objects upon an equivalence relation, and some philosophical and technical problems that may be hidden there.</li>
   </ul> 
 </details>
 
