@@ -13,31 +13,5 @@ Welcome to my GitHub profile, mainly for personal projects and things I like to 
 
 ## Some stats about me 💻
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LogarithmeNeper)](https://git.io/streak-stats)
-
-[![LogarithmeNeper's GitHub stats](https://github-readme-stats.vercel.app/api?username=LogarithmeNeper&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## Coderanks 🚦
-<!-- Maybe not useful
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=LogarithmeNeper&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
--->
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=LogarithmeNeper&padding=10"
-/>
-
-<!--
-**LogarithmeNeper/LogarithmeNeper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![LogarithmeNeper's GitHub stats](https://github-readme-stats.vercel.app/api?username=LogarithmeNeper&count_private=true&show_icons=true&theme=dark) 
+![LogarithmeNeper's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LogarithmeNeper&hide=jupyter%20notebook&langs_count=10&theme=dark&layout=compact)
