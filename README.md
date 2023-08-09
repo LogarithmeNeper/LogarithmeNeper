@@ -10,5 +10,5 @@ Welcome to my GitHub profile, mainly for personal projects and things I like to 
 
 ## Some stats about me 💻
 
-![LogarithmeNeper's GitHub stats](https://github-readme-stats.vercel.app/api?username=LogarithmeNeper&count_private=true&show_icons=true&theme=dark) 
+<!-- ![LogarithmeNeper's GitHub stats](https://github-readme-stats.vercel.app/api?username=LogarithmeNeper&count_private=true&show_icons=true&theme=dark) -->
 ![LogarithmeNeper's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LogarithmeNeper&hide=jupyter%20notebook&langs_count=10&theme=dark&layout=compact)
